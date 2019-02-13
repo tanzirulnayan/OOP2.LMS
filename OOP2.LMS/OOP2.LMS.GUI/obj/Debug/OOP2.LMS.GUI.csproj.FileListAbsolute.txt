@@ -1,0 +1,50 @@
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.exe.config
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.exe
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.Properties.Resources.resources
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.UserInfoManager.resources
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csproj.GenerateResource.cache
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csproj.CopyComplete
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.exe
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.BL.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Data.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Framework.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.BL.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Data.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Data.dll.config
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Framework.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.xml
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.BL.dll.config
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.DepartmentManager.resources
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.exe.config
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.exe
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.exe
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.GUI.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.Design.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\MetroFramework.Fonts.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.BL.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Data.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Framework.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.BL.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Data.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\OOP2.LMS.Framework.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.xml
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csprojResolveAssemblyReference.cache
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.DepartmentManager.resources
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.Properties.Resources.resources
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.UserInfoManager.resources
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.GUI\obj\Debug\OOP2.LMS.GUI.csproj.GenerateResource.Cache

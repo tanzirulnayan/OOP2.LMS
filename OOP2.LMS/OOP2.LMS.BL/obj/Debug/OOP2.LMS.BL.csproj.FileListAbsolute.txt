@@ -1,0 +1,31 @@
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.csprojResolveAssemblyReference.cache
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.csproj.CoreCompileInputs.cache
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.dll.config
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Data.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Framework.dll
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Data.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Data.dll.config
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Framework.pdb
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.xml
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jahid\source\repos\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.csproj.CopyComplete
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.dll.config
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.BL.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Data.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Framework.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Data.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\OOP2.LMS.Framework.pdb
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.xml
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.csprojResolveAssemblyReference.cache
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.dll
+F:\Practice Materials\OOP2.LMS\OOP2.LMS\OOP2.LMS.BL\obj\Debug\OOP2.LMS.BL.pdb
